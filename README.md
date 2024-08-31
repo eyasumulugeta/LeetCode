@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/eyasumulugeta/LeetCode/tree/master/0682-baseball-game) |
 | [1635-number-of-good-pairs](https://github.com/eyasumulugeta/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/eyasumulugeta/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
@@ -31,5 +32,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/eyasumulugeta/LeetCode/tree/master/0682-baseball-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/eyasumulugeta/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/eyasumulugeta/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
