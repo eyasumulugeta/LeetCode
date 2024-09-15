@@ -24,14 +24,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/eyasumulugeta/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2427-first-letter-to-appear-twice](https://github.com/eyasumulugeta/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Counting
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/eyasumulugeta/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2427-first-letter-to-appear-twice](https://github.com/eyasumulugeta/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/eyasumulugeta/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2427-first-letter-to-appear-twice](https://github.com/eyasumulugeta/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Simulation
 |  |
 | ------- |
@@ -51,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/eyasumulugeta/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/eyasumulugeta/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
