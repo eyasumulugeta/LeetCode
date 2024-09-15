@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/eyasumulugeta/LeetCode/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/eyasumulugeta/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0682-baseball-game](https://github.com/eyasumulugeta/LeetCode/tree/master/0682-baseball-game) |
 | [1603-running-sum-of-1d-array](https://github.com/eyasumulugeta/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -23,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/eyasumulugeta/LeetCode/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/eyasumulugeta/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/eyasumulugeta/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/eyasumulugeta/LeetCode/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/eyasumulugeta/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/eyasumulugeta/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## String
@@ -58,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-first-letter-to-appear-twice](https://github.com/eyasumulugeta/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/eyasumulugeta/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/eyasumulugeta/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
