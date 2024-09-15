@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/eyasumulugeta/LeetCode/tree/master/0682-baseball-game) |
+| [1603-running-sum-of-1d-array](https://github.com/eyasumulugeta/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/eyasumulugeta/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/eyasumulugeta/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2714-left-and-right-sum-differences](https://github.com/eyasumulugeta/LeetCode/tree/master/2714-left-and-right-sum-differences) |
@@ -42,5 +43,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/eyasumulugeta/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/eyasumulugeta/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
