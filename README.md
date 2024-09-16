@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/eyasumulugeta/LeetCode/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/eyasumulugeta/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/eyasumulugeta/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0682-baseball-game](https://github.com/eyasumulugeta/LeetCode/tree/master/0682-baseball-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eyasumulugeta/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/eyasumulugeta/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/eyasumulugeta/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/eyasumulugeta/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/eyasumulugeta/LeetCode/tree/master/2714-left-and-right-sum-differences) |
